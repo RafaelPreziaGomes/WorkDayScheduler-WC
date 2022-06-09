@@ -1,0 +1,19 @@
+/* tag selectors */
+
+* {
+  text-align: center;
+}
+
+button {
+  padding: 20px;
+}
+.row {
+  margin: 50px;
+}
+
+div {
+  border: solid black;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 20px;
+}
