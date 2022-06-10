@@ -12,8 +12,8 @@ button {
 }
 
 div {
-  border: solid black;
   border-radius: 10px;
+  border: solid black;
   padding: 20px;
   margin: 20px;
 }
